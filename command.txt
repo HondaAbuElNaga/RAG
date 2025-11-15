@@ -2,3 +2,4 @@ puplic server on gridon
 chatbot.launch(server_name="192.168.50.93", server_port=7860)
 change ip address py ipconfig from cmd 
 to make it local chatbot.launch(share=True)
+uvicorn main:app --reload --host 0.0.0.0 --port 8000
