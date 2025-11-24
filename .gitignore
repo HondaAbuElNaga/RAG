@@ -4,3 +4,11 @@ __pycache__/
 chroma_db/
 knowledge.jsonl
 chat_logs.jsonl
+ big_data_json/
+chat_logs_2025-11-19.jsonl
+chat_logs_2025-11-20.jsonl
+chat_logs_2025-11-22.jsonl
+chroma_db.rar
+new_data.jsonl					
+big_data_json/
+new_data.jsonl
